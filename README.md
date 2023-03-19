@@ -1,2 +1,2 @@
-# Example-spring-boot-autho
+# Example-Auth0
  
